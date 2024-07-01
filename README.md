@@ -14,20 +14,20 @@ Java program to reverse each word in a text file while preserving punctuation.
 ## Instructions
 
 - **Setup:**
-  - Place your input text in a file named `input.txt` in the same directory as `task.java`.
+  - Place your input text in a file named `input.txt` in the same directory as `StringReverce.java`.
 
 - **Compile:**
   - Open a terminal or command prompt.
-  - Navigate to the directory containing `task.java`.
+  - Navigate to the directory containing `StringReverce.java`.
   - Run the following command to compile:
     ```sh
-    javac task.java
+    javac StringReverce.java
     ```
 
 - **Run:**
   - Execute the compiled Java program:
     ```sh
-    java task
+    java StringReverce
     ```
 
 - **Output:**
